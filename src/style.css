@@ -209,6 +209,12 @@ header {
   text-decoration: none;
 }
 
+.a-status {
+  color: #333;
+  font-size: 12px;
+  vertical-align: super;
+  margin: 0;
+}
 .search-params button:hover {
   background-color: #122622;
 }
